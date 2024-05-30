@@ -13,7 +13,7 @@ Study assistant for students to organize and study their coursework.
 - **Flashcards** 
   - Learning and memorization using active recall.
   - Flashcards can be easily linked to relevant notes for easy access in the future.
-- **PDF Viewer**: 
+- **PDF Viewer**
   - PDF viewer for reading textbooks.
   - Highlighted text can be immediately and easily elaborated within the PDF viewer through highlighting text and selecting an action.
 - **Pomodoro Timer**
