@@ -26,3 +26,6 @@ dist-ssr
 
 # PDF Testing
 cci.pdf
+
+# OpenAI Temp
+embedding.js
