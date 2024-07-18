@@ -1,4 +1,4 @@
-# Inventory Manager
+# Study Buddy
 
 ## Introduction
 
@@ -14,7 +14,7 @@
 ## Key Features
 
 ## Tech Stack
-This mobile application uses the React Native library for its frontend. It utilizes a Node.js Express backend with a PostgreSQL database connection.
+This web application uses the React library for its frontend and is styled with Tailwind CSS. It utilizes a Node.js Express backend with a PostgreSQL database connection. The Vite build tool is used for rapid and productive development.
 
 ## Installation and Setup
 ### Prerequisites
